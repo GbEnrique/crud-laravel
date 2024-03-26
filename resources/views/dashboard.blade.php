@@ -14,4 +14,7 @@
             </div>
         </div>
     </div>
+    <div>
+        prueba
+    </div>
 </x-app-layout>
